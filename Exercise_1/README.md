@@ -9,7 +9,7 @@ Create a Kafka cluster and choose your preferred cloud provider, region, and ava
 ![alt text](image-1.png)
 
 
-After installing the CLI, follwo these stpes to configure and set up the CLI to use
+After installing the CLI, follwo these steps to configure and set up the CLI to use
 
 1. Log in to Confluent Cloud:
 
